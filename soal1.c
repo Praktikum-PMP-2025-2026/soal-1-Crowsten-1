@@ -1,3 +1,12 @@
+/** EL2008 Praktikum Pemecahan Masalah dengan Pemrograman 2024/2025
+ *   Modul               : 1 – Overview of C and Pointer
+ *   Hari dan Tanggal    : Selasa 14 April 2026
+ *   Nama (NIM)          : Jonathan Chandra (13224103)
+ *   Nama File           : soal1.c
+ *   Deskripsi           : Menara lampu
+ * 
+ */
+
 #include <stdio.h>
 
 int N,x;
